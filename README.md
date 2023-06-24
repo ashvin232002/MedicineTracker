@@ -23,8 +23,15 @@ steps:<br/>
          1. Go to the UserSignUp  (email Varification is needed through mail) <br/>
          2.Enter The OTP which You got on the email<br/>
          3.Now Login into Account<br/>
-         4.Find Your Needed Medicine By District
-         5.You find a List of The user That have The available Qunatity
+         4.Find Your Needed Medicine By District<br/>
+         5.You find a List of The user That have The available Qunatity<br/>
                +<br/>
           (Included  Password Reset Functionality ,  change Password Functionality , Delete Account)<br/>
   </pre>
+
+
+
+![AdminSignup](https://github.com/ashvin232002/MedicineTracker/assets/120255875/a57d4637-6c04-4ac3-883c-d2e7b00c178d)
+
+
+  

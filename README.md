@@ -29,14 +29,12 @@ steps:<br/>
           (Included  Password Reset Functionality ,  change Password Functionality , Delete Account)<br/>
   </pre>
 
-<pre>
 <br/>
 Admin Sign Up Page
 ![AdminSignup](https://github.com/ashvin232002/MedicineTracker/assets/120255875/a57d4637-6c04-4ac3-883c-d2e7b00c178d)
-  </pre>
+  
 
-<pre>
+
 <br/>
 Admin Profile Page
   ![AdminProfilePage](https://github.com/ashvin232002/MedicineTracker/assets/120255875/266a5d83-01be-45a7-8765-901ef1cebeeb)
-</pre>

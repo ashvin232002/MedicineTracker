@@ -28,8 +28,10 @@ steps:<br/>
                +<br/>
           (Included  Password Reset Functionality ,  change Password Functionality , Delete Account)<br/>
   </pre>
+  
 <pre>Admin Sign Up</pre>
-![AdminSignup](https://github.com/ashvin232002/MedicineTracker/assets/120255875/e92952be-b631-4274-8bcb-7a5893eeffdb)<br/>
+![Admin Sign Up](https://github.com/ashvin232002/MedicineTracker/assets/120255875/99f951ad-22d3-4318-be2b-998a5e3d49dc)
+
 
 <pre>SEND OTP DEMO PAGE</pre>
 ![SendOTPdemo](https://github.com/ashvin232002/MedicineTracker/assets/120255875/fb773342-8451-4181-8739-03ff67b79b80)<br/>
@@ -55,10 +57,10 @@ steps:<br/>
 <pre>Customer Profile Page</pre>
 ![UserProfile](https://github.com/ashvin232002/MedicineTracker/assets/120255875/e93401b6-d732-4705-ab7b-d65d678e4a13)<br/>
 
-<pre>Search Medicine By Customer</pre>
+<pre>Result Page for The Medicine</pre>
 ![SearchMedicine](https://github.com/ashvin232002/MedicineTracker/assets/120255875/87295c66-9842-409a-84fc-8213f4db15fb)<br/>
 
-<pre>Result Page for The Medicine</pre>
+<pre>Search Medicine By Customer</pre>
 ![SearchByUser](https://github.com/ashvin232002/MedicineTracker/assets/120255875/71bee53e-dc82-496b-a34e-fd669114bb58)<br/>
 
 

@@ -136,10 +136,10 @@ const SignupForm = () => {
                         name="password"
                         className='bg-richblack-800 rounded-[0.5rem] w-[200%] text-richblack-5  p-[12px] '/>
 
-                        <span className='absolute left-[1000px] top-[390px] cursor-pointer '
+                        {/* <span className='absolute left-[1000px] top-[390px] cursor-pointer '
                         onClick={()=>setshowPassword((prev)=>!prev)}>
                             {showpassword ? (<AiOutlineEyeInvisible fontSize={24} fill='#AFB2BF'/>):(<AiOutlineEye fontSize={24} fill='#AFB2BF'/>)}
-                        </span>
+                        </span> */}
                     </label>
 
                     <label >

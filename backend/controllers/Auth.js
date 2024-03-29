@@ -170,6 +170,8 @@ exports.CustomerSignup =  async (req,res)=>{
     })
   }
 }
+
+
 exports.signup =  async (req,res)=>{
     //fetching the data from Req Body
     try{
